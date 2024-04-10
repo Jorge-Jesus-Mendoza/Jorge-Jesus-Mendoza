@@ -23,7 +23,7 @@ I'm an passionate Self-taught Front-end developer with experience in diferents l
 
 ## 🌱 I’m currently learning ...
 
-<div align='center'>
+<div align='center' style={{color: 'blue'}}>
   Nextjs
   Nestjs
 </div>
@@ -31,7 +31,7 @@ I'm an passionate Self-taught Front-end developer with experience in diferents l
 
 ### My stats⭐
 
-<div style+{{'display': 'flex'}}> 
+<div style={{'display': 'flex'}}> 
   <img alt="Maksym's GitHub stats" align="center"  src="https://github-readme-stats.vercel.app/api?username=Jorge-Jesus-Mendoza&show_icons=true&theme=transparent"/>
   <img alt="Top langs" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-Jesus-Mendoza&layout=compact&&langs_count=8&theme=transparent"/>
 </div>
