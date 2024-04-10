@@ -30,7 +30,7 @@ I'm an passionate Self-taught Front-end developer with experience in diferents l
 <img height=60px src="https://media.graphassets.com/VKHHNvEETYqZRkqgjybc"> 
 </td>
 
-<td align="center" width="50%">
+<td align="center">
 <img height=60px src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_169927.png"> 
 </td>
 </tr>
