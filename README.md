@@ -26,7 +26,7 @@ I'm an passionate Self-taught Front-end developer with experience in diferents l
 <table>
 <tbody>
  <tr>
-<td align="center" width="50%">
+<td align="center">
 <img height=60px src="https://media.graphassets.com/VKHHNvEETYqZRkqgjybc"> 
 </td>
 
