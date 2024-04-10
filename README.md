@@ -27,7 +27,7 @@ I'm an passionate Self-taught Front-end developer with experience in diferents l
 <tbody>
  <tr>
 <td align="center" width="33%">
-<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/2560px-Nextjs-logo.svg.png"> 
+<img height=60px src="https://media.graphassets.com/VKHHNvEETYqZRkqgjybc"> 
 </td>
 
 <td align="center" width="33%">
