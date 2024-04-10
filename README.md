@@ -23,10 +23,24 @@ I'm an passionate Self-taught Front-end developer with experience in diferents l
 
 ## 🌱 I’m currently learning ...
 
-<div align='center'>
-  Nextjs
-  Nestjs
-</div>
+<table>
+<tbody>
+ <tr>
+<td align="center" width="33%">
+<img height=60px src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> 
+</td>
+
+<td align="center" width="33%">
+<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"> 
+</td>
+
+<td align="center" width="33%">
+<img height=80px src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"> 
+</td>
+</tr>
+
+</tbody>
+</table>
 
 
 ### My stats⭐
