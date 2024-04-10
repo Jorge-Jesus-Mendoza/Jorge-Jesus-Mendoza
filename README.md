@@ -23,8 +23,14 @@ I'm an passionate Self-taught Front-end developer with experience in diferents l
 
 ## 🌱 I’m currently learning ...
 
-<div align='center' style={{color: 'blue'}}>
-  Nextjs
+<div align='center'>
+            <style>
+            h1 {
+                color: red;
+                animation: mymove 2s infinite;
+            }
+            </style>
+ <h1> Nextjs</h1>
   Nestjs
 </div>
 
