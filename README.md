@@ -23,11 +23,15 @@ I'm an passionate Self-taught Front-end developer with experience in diferents l
 
 ## 🌱 I’m currently learning ...
 
-Nextjs and Nestjs
+<div style={{ 'display': 'flex', 'justify-content': 'space-around' }}>
+  <p>Nextjs</p>
+  <p>Nestjs</p>
+</div>
+
 
 ### My stats⭐
 
-<div style+{{display: 'flex'}}> 
+<div style+{{'display': 'flex'}}> 
   <img alt="Maksym's GitHub stats" align="center"  src="https://github-readme-stats.vercel.app/api?username=Jorge-Jesus-Mendoza&show_icons=true&theme=transparent"/>
   <img alt="Top langs" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-Jesus-Mendoza&layout=compact&&langs_count=8&theme=transparent"/>
 </div>
