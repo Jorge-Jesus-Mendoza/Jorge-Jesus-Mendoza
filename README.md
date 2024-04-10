@@ -23,7 +23,7 @@ I'm an passionate Self-taught Front-end developer with experience in diferents l
 
 ## 🌱 I’m currently learning ...
 
-<div style={{ 'display': 'flex', 'justify-content': 'space-around' }}>
+<div align='space-around'>
   <p>Nextjs</p>
   <p>Nestjs</p>
 </div>
