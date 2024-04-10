@@ -4,7 +4,7 @@
 Nextjs and Nestjs
 
 <img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Jorge-Jesus-Mendoza&show_icons=true&theme=transparent"/>
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-Jesus-Mendoza&layout=compact&&langs_count=8"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-Jesus-Mendoza&layout=compact&&langs_count=8&theme=transparent"/>
 <!--
 **Jorge-Jesus-Mendoza/Jorge-Jesus-Mendoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
