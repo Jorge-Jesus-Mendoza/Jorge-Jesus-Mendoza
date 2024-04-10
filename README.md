@@ -1,8 +1,11 @@
-### Hi there 👋
+### <h1 align="center"><b>Hi , I'm Jorge Mendoza </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+I'm an Front-end developer with experience in diferents languajes and framework
 🌱 I’m currently learning ...
 
 Nextjs and Nestjs
 
+### My stats⭐
 <div style+{{display: 'flex'}}> 
   <img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Jorge-Jesus-Mendoza&show_icons=true&theme=transparent"/>
   <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-Jesus-Mendoza&layout=compact&&langs_count=8&theme=transparent"/>
