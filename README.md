@@ -10,7 +10,7 @@ I'm an Front-end developer with experience in diferents languajes and framework 
 
 - A passionate Self-taught Front-end developer
 - Currently learning Web Development by Self\\
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- I’m currently open for an Intern or a new job opportunity
 
 <br><br>
 
