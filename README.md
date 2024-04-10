@@ -31,7 +31,7 @@ I'm an passionate Self-taught Front-end developer with experience in diferents l
 </td>
 
 <td align="center" width="33%">
-<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"> 
+<img height=60px src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_169927.png"> 
 </td>
 </tr>
 
