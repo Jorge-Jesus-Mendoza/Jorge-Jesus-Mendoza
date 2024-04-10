@@ -23,7 +23,7 @@ I'm an passionate Self-taught Front-end developer with experience in diferents l
 
 ## 🌱 I’m currently learning ...
 
-<div align='space-around'>
+<div align='center'>
   <p>Nextjs</p>
   <p>Nestjs</p>
 </div>
