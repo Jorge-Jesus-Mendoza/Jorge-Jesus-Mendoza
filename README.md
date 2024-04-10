@@ -9,7 +9,7 @@ I'm an Front-end developer with experience in diferents languajes and framework 
 <br>
 
 - A passionate Self-taught Front-end developer
-- Currently learning Web Development by Self\\
+- Currently learning Web Development by Self
 - I’m currently open for an Intern or a new job opportunity
 
 <br><br>
