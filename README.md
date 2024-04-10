@@ -39,7 +39,8 @@ I'm an passionate Self-taught Front-end developer with experience in diferents l
 </table>
 
 
-### My stats⭐
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
 
 <div style={{'display': 'flex'}}> 
   <img alt="Maksym's GitHub stats" align="center"  src="https://github-readme-stats.vercel.app/api?username=Jorge-Jesus-Mendoza&show_icons=true&theme=transparent"/>
