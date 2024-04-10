@@ -2,6 +2,8 @@
 🌱 I’m currently learning ...
 
 Nextjs and Nestjs
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jorge-Jesus-Mendoza)](https://github.com/Jorge-Jesus-Mendoza/github-readme-stats)
 <!--
 **Jorge-Jesus-Mendoza/Jorge-Jesus-Mendoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
