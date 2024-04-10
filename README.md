@@ -1,6 +1,6 @@
 ### <h1 align="center"><b>Hi , I'm Jorge Mendoza </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-I'm an Front-end developer with experience in diferents languajes and framework <br/>
+I'm an Front-end developer with experience in diferents languajes and frameworks, if you have any doubt you can contact me without any problem <br/>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
