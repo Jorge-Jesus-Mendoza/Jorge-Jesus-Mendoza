@@ -32,7 +32,7 @@ Nextjs and Nestjs
   <img alt="Top langs" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-Jesus-Mendoza&layout=compact&&langs_count=8&theme=transparent"/>
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jorge-Jesus-Mendoza&theme=onedark)](https://github.com/Jorge-Jesus-Mendoza/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jorge-Jesus-Mendoza&theme=algolia)](https://github.com/Jorge-Jesus-Mendoza/github-profile-trophy)
 
 
 <!--
