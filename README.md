@@ -26,11 +26,11 @@ I'm an passionate Self-taught Front-end developer with experience in diferents l
 <table>
 <tbody>
  <tr>
-<td align="center" width="33%">
+<td align="center" width="50%">
 <img height=60px src="https://media.graphassets.com/VKHHNvEETYqZRkqgjybc"> 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="50%">
 <img height=60px src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_169927.png"> 
 </td>
 </tr>
