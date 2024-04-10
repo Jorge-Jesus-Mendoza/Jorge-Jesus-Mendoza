@@ -24,8 +24,8 @@ I'm an passionate Self-taught Front-end developer with experience in diferents l
 ## 🌱 I’m currently learning ...
 
 <div align='center'>
-  <p>Nextjs</p>
-  <p>Nestjs</p>
+  Nextjs
+  Nestjs
 </div>
 
 
