@@ -3,7 +3,7 @@
 
 Nextjs and Nestjs
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jorge-Jesus-Mendoza&show_icons=true&theme=shadow_blue )](https://github.com/Jorge-Jesus-Mendoza/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jorge-Jesus-Mendoza&show_icons=true&theme=algolia  )](https://github.com/Jorge-Jesus-Mendoza/github-readme-stats)
 <!--
 **Jorge-Jesus-Mendoza/Jorge-Jesus-Mendoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
