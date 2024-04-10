@@ -13,7 +13,7 @@ I'm an Front-end developer with experience in diferents languajes and frameworks
 
 <br><br>
 
-🌱 I’m currently learning ...
+# 🌱 I’m currently learning ...
 
 Nextjs and Nestjs
 
