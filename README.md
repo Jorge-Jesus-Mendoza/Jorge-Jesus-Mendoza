@@ -22,6 +22,7 @@ I'm an passionate Self-taught Front-end developer with experience in diferents l
 
 
 <br><br>
+<!--
 
 ## 🌱 I’m currently learning ...
 
@@ -40,6 +41,7 @@ I'm an passionate Self-taught Front-end developer with experience in diferents l
 </tbody>
 </table>
 
+-->
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
